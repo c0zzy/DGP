@@ -26,7 +26,7 @@ INSTALL_REQUIRES = [
       'psutil>=5.8.0',
       'cython>=0.29.30',
       'pybind11>=2.10.0',
-      'pythran>=0.11.0',
+      'pythran==0.9.11',
       'scikit-build>=0.15.0',
       'tabulate>=0.8.7'
 ]
